@@ -41,7 +41,8 @@ An Arduino-based project that detects potholes using IR and ultrasonic sensors, 
 * LED: Pin 9
 * GSM: TX 10, RX 11
 
-![pro 2](https://github.com/user-attachments/assets/fc75592e-1e22-47c9-ac93-6839744876ce)
+![pro 1](https://github.com/user-attachments/assets/fec2f0f5-387c-4e14-ac58-b484d3bedff2)
+
 
 
 
